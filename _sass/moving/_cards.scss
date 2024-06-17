@@ -1,0 +1,123 @@
+/*https://codepen.io/techiediaries/pen/MWgVKZW*/
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    grid-gap: 20px;
+    align-items: stretch;
+}
+
+@media screen and (max-width: 600px) {
+    .grid {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    }
+}
+
+article {
+    display: block;
+    border: 2px solid var(--color-2);
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 0.3em;
+    background-color: var(--color-1);
+    min-height: 300px;
+    z-index: 0;
+
+    position: relative;
+
+    &:hover {
+        transition: all 0.2s ease-out;
+        box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+        top: -4px;
+        background-color: var(--background-color);
+    }
+
+
+}
+
+.grid .text {
+    padding: 20px;
+    margin: 0px;
+    position: relative;
+    min-height: 300px;
+
+}
+
+.grid .text p {
+    font-size: 14px;
+    line-height: 1.2;
+    margin-bottom: 0;
+    color: var(--text-color);
+}
+
+.grid .text code {
+    font-size: 10px;
+}
+
+.grid .text hr {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: 0;
+    height: 2px;
+    /* Set the hr color */
+    color: darken($grey-color-light, 30%);
+    /* old IE */
+    background-color: darken($grey-color-light, 30%);
+}
+
+.grid .text h2 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: var(--text-color);
+}
+
+.card-description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+}
+
+
+.card-container {
+    display: flex;
+    min-width: 100%;
+    justify-content: space-between;
+    // background-color: #000;
+}
+
+@media screen and (max-width: 600px) {
+    .card-container {
+        // width: 80%;
+        // background-color: #fff;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    plain_article {
+        min-width: 100%;
+        margin-bottom: 30px;
+    }
+}
+
+plain_article {
+    display: block;
+    border: 1.5px solid var(--text-color);
+    border-radius: 0.3em;
+    background-color: var(--background-color);
+    min-height: 300px;
+    z-index: 0;
+    width: 32%;
+    position: relative;
+
+    &:hover {
+        transition: all 0.5s ease-out;
+        box-shadow: 0px 16px 16px var(--shadow-color);
+        top: -8px;
+        background-color: var(--background-color);
+    }
+
+
+}
