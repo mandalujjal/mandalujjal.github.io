@@ -1,10 +1,10 @@
 # projects section data
 - name: A simple weather api
-  gh_user: mandalujjal
-  repo: Create-Weather-API-Code---OpenWeatherMap-API
-  img: https://blog.zuehlke.cloud/wp-content/uploads/2024/04/AzureCostExportPAYG-Overview-945x293.png
+  # gh_user: mandalujjal
+  # repo: Create-Weather-API-Code---OpenWeatherMap-API
+  # img: https://blog.zuehlke.cloud/wp-content/uploads/2024/04/AzureCostExportPAYG-Overview-945x293.png
 
 - name: A regular rebuild and hosting of simple html css javas web page
   # gh_user: mandalujjal
   # repo: A-Simple-Html-Css-JavaS-Web-Template
-  img: https://blog.zuehlke.cloud/wp-content/uploads/2023/05/snowflake-logs.png
+  # img: https://blog.zuehlke.cloud/wp-content/uploads/2023/05/snowflake-logs.png
