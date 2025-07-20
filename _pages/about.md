@@ -27,7 +27,10 @@ initiatives.
   Location: IIT Gandhinagar, Gujarat, India
 
 - **June, 17 - 21, 2025**  
-  **"[Five days Yoga Workshop continues  at IIITA to celebrate the 11th International Yoga Day  (IDY-2025)](https://x.com/IIITA_Official)"**  
+  **"[Five days Yoga Workshop continues  at IIITA to celebrate the 11th International Yoga Day  (IDY-2025)](https://x.com/IIITA_Official)"**
+  ![Yoga1](https://github.com/user-attachments/assets/fe557e4a-a633-4f1f-812d-696d8017287c)
+  ![Yoga2](https://github.com/user-attachments/assets/bb6f382e-8b0d-4da9-a800-ab0018c51856)
+
 
 - **03.09.2024**  
   **"COMSOL Workshop at IIIT Allahabad"**  
