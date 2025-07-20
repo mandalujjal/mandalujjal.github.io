@@ -39,7 +39,7 @@ author:
   orcid            : #"0009-0009-2171-1075"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     :  https://www.researchgate.net/profile/Ujjal-Mandal-2
   scopus           : # URL
 
   # Repositories and software development
