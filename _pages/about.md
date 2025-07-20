@@ -26,7 +26,7 @@ initiatives.
   Scheduled for Monday October 13 – Friday October 17, 2025  
   Location: IIT Gandhinagar, Gujarat, India
 
-- **03.09.2024**  
+- **June, 17 - 21, 2025**  
   **"[Five days Yoga Workshop continues  at IIITA to celebrate the 11th International Yoga Day  (IDY-2025)](https://x.com/IIITA_Official)"**  
 
 - **03.09.2024**  
