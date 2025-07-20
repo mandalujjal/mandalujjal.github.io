@@ -18,7 +18,7 @@ redirect_from:
   Location: IIITA, Online, Admin Auditorium
 
 - **27-28.04.2024**  
-  **"Two Day Virtual Bioengineering Conclave"**  
+  **"[Two Day Virtual Bioengineering Conclave](https://as.iiita.ac.in/bioconclave2025/)"**  
   Organized by Bioengineering Group, IIITA  
   Location: IIITA, Online, Google Meet
 
