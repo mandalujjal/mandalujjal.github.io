@@ -27,6 +27,9 @@ initiatives.
   Location: IIT Gandhinagar, Gujarat, India
 
 - **03.09.2024**  
+  **"[Five days Yoga Workshop continues  at IIITA to celebrate the 11th International Yoga Day  (IDY-2025)](https://x.com/IIITA_Official)"**  
+
+- **03.09.2024**  
   **"COMSOL Workshop at IIIT Allahabad"**  
   Scheduled for Tuesday, 3rd September 2024  
   Location: IIITA, Online, Admin Auditorium
