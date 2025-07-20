@@ -21,7 +21,12 @@ initiatives.
 
 ## Academic
 
-- **03.09.2024**  
+- **Monday October 13 – Friday October 17, 2025**  
+  **"[Waves and Transducers](https://wt.imphys.tudelft.nl/)"**  
+  Scheduled for Monday October 13 – Friday October 17, 2025  
+  Location: IIT Gandhinagar, Gujarat, India
+
+  - **03.09.2024**  
   **"COMSOL Workshop at IIIT Allahabad"**  
   Scheduled for Tuesday, 3rd September 2024  
   Location: IIITA, Online, Admin Auditorium
