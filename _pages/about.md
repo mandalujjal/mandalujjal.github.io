@@ -12,7 +12,7 @@ a specialization in photoacoustic signal and spectrum generation using computati
 and CUDA C. My academic career has been distinguished by earning both Junior Research Fellowship (JRF) and Senior
 Research Fellowship (SRF) awards. I have a strong track record of publications and experience in teaching courses like
 numerical methods, tomography imaging, and engineering physics.
-With over 3 years of experience as a Research Assistant in Computational Biomedical Physics, I am skilled in leveraging
+With over 4 years of experience as a Research Assistant in Computational Biomedical Physics, I am skilled in leveraging
 advanced computational techniques to push the boundaries of biomedical research, particularly in optoacoustic methods.
 I thrive in both independent and collaborative settings, excelling in data gathering and analysis to support scientific research. My diverse expertise enables me to quickly adapt to new challenges and contribute effectively to innovative research
 initiatives.
@@ -32,17 +32,17 @@ initiatives.
   Location: IIITA, Online, Google Meet
 
 - **30-31.03.2023**  
-  **"The 4th edition of PHASE 2023 (Photonics for Health, Atmosphere, Safety and Education)"**  
+  **"[The 4th edition of PHASE 2023 (Photonics for Health, Atmosphere, Safety and Education)](https://www.photonicsensorslab.com/phase-2023)"**  
   Organized as part of the Distinguished International Associate (DIA) award of the Royal Academy of Engineering, UK  
   Involved 17 invited speakers, poster session for research scholars, laboratory visits, and hands-on sessions  
   Location: IITGN
 
 - **20-22.10.2022**  
-  **"Symposium cum Hands-on Workshop on Medical Imaging"**  
+  **"[Symposium cum Hands-on Workshop on Medical Imaging](https://conference.iisertvm.ac.in/medicalimaging/)"**  
   Location: IISERTVM
 
 - **19-21.08.2021**  
-  **"Three-Day Online Workshop on Recent Trends in Biomedical Imaging and Applications"**  
+  **"[Three-Day Online Workshop on Recent Trends in Biomedical Imaging and Applications](https://bmiga.iiita.ac.in/)"**  
   Organizers: Dr. Ratan K Saha, Dr. Amaresh K Sahoo, and Prof. Tapobrata Lahiri  
   Location: IIITA
 
