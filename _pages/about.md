@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /files/header.jpg  # or URL
+  overlay_filter: 0.5  # optional - adds a dark overlay
 ---
 
 I am Ujjal Mandal, currently a Research Fellow at the Indian Institute of Information Technology Allahabad (IIITA), with
