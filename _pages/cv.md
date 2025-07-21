@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="/files/cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 Education
 ======
 * Ph.D in Photoacoustics, IIITA, 2025 
