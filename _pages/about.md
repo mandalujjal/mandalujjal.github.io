@@ -43,10 +43,13 @@ initiatives.
   Location: IIITA, Online, Google Meet
 
 - **30-31.03.2023**  
+
   **"[The 4th edition of PHASE 2023 (Photonics for Health, Atmosphere, Safety and Education)](https://www.photonicsensorslab.com/phase-2023)"**  
   Organized as part of the Distinguished International Associate (DIA) award of the Royal Academy of Engineering, UK  
   Involved 17 invited speakers, poster session for research scholars, laboratory visits, and hands-on sessions  
   Location: IITGN
+  
+![Uploading iitg_1.png…](https://github.com/user-attachments/assets/1abec052-5d85-4fd9-9eb0-69e23d599bed)
 
 - **20-22.10.2022**  
   **"[Symposium cum Hands-on Workshop on Medical Imaging](https://conference.iisertvm.ac.in/medicalimaging/)"**  
