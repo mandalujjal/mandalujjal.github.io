@@ -79,6 +79,7 @@ initiatives.
 - **06-07.10.2015**  
   **"Discussion Meeting Science Related to Space & Nuclear in Research and Industry"**  
   Location: SINP, Kolkata
+
   <img width="720" height="270" alt="saha 1" src="https://github.com/user-attachments/assets/621299ba-fab8-469c-ba5a-     8adbf563ae3c" />
 
  
