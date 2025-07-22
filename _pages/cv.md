@@ -12,10 +12,25 @@ redirect_from:
 <iframe src="/files/cv.pdf" width="100%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
-Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 
