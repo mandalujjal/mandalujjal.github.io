@@ -17,6 +17,9 @@ advanced computational techniques to push the boundaries of biomedical research,
 I thrive in both independent and collaborative settings, excelling in data gathering and analysis to support scientific research. My diverse expertise enables me to quickly adapt to new challenges and contribute effectively to innovative research
 initiatives.
 
+
+# [Visit Book Page](https://ujjalmandal.onrender.com/)
+
 # Seminars Attended
 
 ## Academic
