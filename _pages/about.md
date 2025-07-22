@@ -61,6 +61,10 @@ initiatives.
   Organizers: Dr. Ratan K Saha, Dr. Amaresh K Sahoo, and Prof. Tapobrata Lahiri  
   Location: IIITA
 
+- **15.08.2020**  
+  **"Earned M.Sc Degree"**  
+  Location: University of Gour Banga, Malda, WB, India
+
 - **30-31.07.2020**  
   **"Contribution of Physics towards Atma Nirbhar Bharat"**  
   Location: N.S.B.C Govt. College Biaora, MP
