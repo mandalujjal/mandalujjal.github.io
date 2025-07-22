@@ -1,7 +1,7 @@
 ---
 title: 'Concurrency vs Parallelism - They are not the same!'
 date: 2025-07-22
-permalink: /posts/2025/06/blog-post-1/
+permalink: /posts/blog-post-2/
 tags:
   - cool posts
   - category1
