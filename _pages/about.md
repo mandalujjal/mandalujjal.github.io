@@ -55,7 +55,8 @@ initiatives.
 - **20-22.10.2022**  
   **"[Symposium cum Hands-on Workshop on Medical Imaging](https://conference.iisertvm.ac.in/medicalimaging/)"**  
   Location: IISERTVM
-
+  ![iisertvm](https://github.com/user-attachments/assets/5720d219-9e52-4e20-80f9-3fe34f492b72)
+  
 - **19-21.08.2021**  
   **"[Three-Day Online Workshop on Recent Trends in Biomedical Imaging and Applications](https://bmiga.iiita.ac.in/)"**  
   Organizers: Dr. Ratan K Saha, Dr. Amaresh K Sahoo, and Prof. Tapobrata Lahiri  
@@ -64,6 +65,7 @@ initiatives.
 - **15.08.2020**  
   **"Earned M.Sc Degree"**  
   Location: University of Gour Banga, Malda, WB, India
+  ![MSC](https://github.com/user-attachments/assets/24fe8654-2a70-41e6-bf50-aaf6c3e68275)
 
 - **30-31.07.2020**  
   **"Contribution of Physics towards Atma Nirbhar Bharat"**  
@@ -73,13 +75,13 @@ initiatives.
   **"Workshop on Innovative Experiment Students"**  
   Organized by UGC-DAE  
   Location: Kolkata
+  ![Asutosh_page-0001](https://github.com/user-attachments/assets/d4614172-c432-452a-a539-56fd355175a8)
 
 - **06-07.10.2015**  
   **"Discussion Meeting Science Related to Space & Nuclear in Research and Industry"**  
   Location: SINP, Kolkata
 
-
-
-For details [Link](https://mandalujjal.github.io) 
+  <img width="720" height="270" alt="saha 1" src="https://github.com/user-attachments/assets/621299ba-fab8-469c-ba5a-8adbf563ae3c" />
 
  
+
