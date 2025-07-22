@@ -55,7 +55,8 @@ initiatives.
 - **20-22.10.2022**  
   **"[Symposium cum Hands-on Workshop on Medical Imaging](https://conference.iisertvm.ac.in/medicalimaging/)"**  
   Location: IISERTVM
-
+  ![iisertvm](https://github.com/user-attachments/assets/5720d219-9e52-4e20-80f9-3fe34f492b72)
+  
 - **19-21.08.2021**  
   **"[Three-Day Online Workshop on Recent Trends in Biomedical Imaging and Applications](https://bmiga.iiita.ac.in/)"**  
   Organizers: Dr. Ratan K Saha, Dr. Amaresh K Sahoo, and Prof. Tapobrata Lahiri  
@@ -83,3 +84,4 @@ initiatives.
   <img width="720" height="270" alt="saha 1" src="https://github.com/user-attachments/assets/621299ba-fab8-469c-ba5a-8adbf563ae3c" />
 
  
+
