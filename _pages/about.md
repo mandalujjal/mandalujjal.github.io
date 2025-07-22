@@ -64,6 +64,7 @@ initiatives.
 - **15.08.2020**  
   **"Earned M.Sc Degree"**  
   Location: University of Gour Banga, Malda, WB, India
+  ![MSC](https://github.com/user-attachments/assets/24fe8654-2a70-41e6-bf50-aaf6c3e68275)
 
 - **30-31.07.2020**  
   **"Contribution of Physics towards Atma Nirbhar Bharat"**  
