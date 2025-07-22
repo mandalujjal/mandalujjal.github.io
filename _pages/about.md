@@ -20,9 +20,9 @@ initiatives.
 
 # [Visit Book Page](https://ujjalmandal.onrender.com/)
 
-# Seminars Attended
 
-## Academic
+
+## Academic  Seminars Attended
 
 - **Monday October 13 – Friday October 17, 2025**  
   **"[Waves and Transducers](https://wt.imphys.tudelft.nl/)"**  
