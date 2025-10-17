@@ -12,4 +12,4 @@ paperurl: 'https://arxiv.org/abs/2507.13754'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-<!-----<img width="1920" height="935" alt="j2" src="https://github.com/user-attachments/assets/60343c44-5cfb-40eb-8254-e01b0b62ce60" />
+
