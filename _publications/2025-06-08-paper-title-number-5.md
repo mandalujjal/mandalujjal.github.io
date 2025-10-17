@@ -10,9 +10,4 @@ paperurl: 'https://opg.optica.org/abstract.cfm?uri=ecbo-2023-1263109'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The frequency domain optoacoustic (OA) wave equation is inherently inhomogeneous. The first inho-mogeneous term arises because of the OA effect (ie, conversion of optical energy into acoustical energy). The second term appears due to sound-speed mismatch between the source and the ambient medium. The conventional Green’s function method works well in absence of the second term (ie, acoustically homoge-neous source). Recently, it has been shown that a modified Green’s function (MGF) approach provides faithful solution to the OA wave equation for an acoustically inhomogeneous source. Herein, we employ the MGF technique for accurate estimation of the OA spectra for normal and pathological red blood cells (RBCs). The shapes in 2D mimicking normal RBC, stomatocyte and echinocyte (with six equidistant identical spicules) were simulated (with constant area≈ 16.5 µm 2) and subsequently, the …
-
-
-
-
 <img width="1268" height="937" alt="c1" src="https://github.com/user-attachments/assets/7d770de6-0ca8-4c3e-94b9-29553595fda9" />
